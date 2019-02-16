@@ -50,6 +50,8 @@
 			static float PI = 3.1416f;
 			static float PI_2 = 6.2832f;
 
+			StructuredBuffer<float3> buf_Points;
+
 			sampler2D _MainTex;
 			float4 _MainTex_ST;
 			uniform float4 _BottomColor;
