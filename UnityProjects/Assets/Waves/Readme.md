@@ -11,7 +11,7 @@
 4. FFT waves是基于指数族统计模型的波. <br>
 
 # Screenshot of the plugin:
-![](Files/Sample1.png)
+![](Sample1.png)
 
 # Reference
 https://developer.nvidia.com/gpugems/GPUGems/gpugems_ch01.html<br>
