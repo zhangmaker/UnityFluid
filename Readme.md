@@ -5,4 +5,4 @@ The project contains many fluid effects.
 Waves effect
 
 # Screenshot of the plugin:
-![](Files/Sample1.png)
+![](UnityProjects/Assets/Waves/Sample1.png)
